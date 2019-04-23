@@ -1,0 +1,3 @@
+[submodule "gp-parser-java"]
+	path = gp-parser-java
+	url = https://github.com/dwursteisen/gp-parser
